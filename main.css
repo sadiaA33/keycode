@@ -1,0 +1,45 @@
+.flex-container{
+    
+        display: flex;
+        flex-direction:column;
+        
+        justify-content: center;
+        background-image: url(maxresdefault.jpg);
+        text-align: center;
+        font-size: 50px;
+         margin: 50px;
+        }
+        h1{
+            color: aliceblue;
+            text-shadow: 2px 2px 20px red;
+        }
+    
+.test{
+     
+    line-height: 95px;
+    font-size: 40px;
+    flex-direction: row;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 20%;
+  }
+  .one{
+      background: purple;
+      border-radius: 50px;
+         
+  }
+  .two{
+      background: yellow;
+      border-radius: 50px;
+  }
+  .three{
+      background: olivedrab;
+      border-radius: 50px;
+  }
+  .input{
+      margin-left: 40%;
+      margin-right: 40%;
+      padding-top:20px;
+      font-size: 30px;
+      border-radius: 20px; 
+  }
